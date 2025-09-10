@@ -3,10 +3,7 @@
 [![Contributions](https://img.shields.io/badge/contributions-welcome-orange?style=flat-square)](https://github.com/ShisheerKaushik24/Quantum_projects/pulls)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/ShisheerKaushik24/Quantum_projects/graphs/commit-activity)
 
-<!-- Logo: -->
-<div align="center">
-  <a href="https://github.com/ShisheerKaushik24/Quantum_projects"><img src="https://github.com/ShisheerKaushik24/Quantum_projects/blob/master/asset/featured.png" height="300" width="550" /></a>
-</div>
+
 
 *<p align="center"><small>Source: IBM Quantum</small></p>*
 
@@ -122,6 +119,4 @@ This work is licensed under a [MIT License](LICENSE) license.
 
 <hr>
 
-Created and maintained by [@Shisheer S Kaushik][1].
 
-[1]: https://github.com/ShisheerKauhik24
