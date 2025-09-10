@@ -14,12 +14,6 @@
 </div>
 <br>
   
-<!-- Author: -->
-<div align="center">
-  <b>Developer: <a target="_blank" href="https://github.com/ShisheerKaushik24">¹Shisheer S Kaushik</a></b>
-<br>
-</div>
-
 
 ## Description:
 This repository contains a collection of my projects related to quantum computing. These projects cover various aspects of quantum computing, such as quantum algorithms, quantum programming, quantum simulation, and quantum hardware.
